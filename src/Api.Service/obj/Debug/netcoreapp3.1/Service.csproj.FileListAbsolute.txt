@@ -1,0 +1,10 @@
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Meus_Projetos\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
